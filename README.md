@@ -44,4 +44,4 @@ Inline code example: `Rating = 10/10`
 Survive. Stay together. Never let your guard down.
 ```
 
-Learn more on the [AMC official page]((https://www.amc.com/shows/the-walking-dead--1002293)).
+Learn more on the [AMC official page](https://www.amc.com/shows/the-walking-dead--1002293).
